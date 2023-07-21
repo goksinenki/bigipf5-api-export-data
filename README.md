@@ -21,3 +21,8 @@ pip install pymysql
 
 pip install json
 
+Tested with Python 3.6
+
+Good Luck !
+
+Goksin

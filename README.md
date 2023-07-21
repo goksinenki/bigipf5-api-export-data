@@ -11,6 +11,7 @@ The second part of the script read the text files (bigipf5tsonuc.txt and bigipf5
 
 ![image](https://github.com/goksinenki/bigipf5-api-export-data/assets/917944/f361fb96-ccaf-4cc6-8800-dd7108945f5a)
 
+![image](https://github.com/goksinenki/bigipf5-api-export-data/assets/917944/702c2dd6-c450-4b08-b94d-36e95466a4e4)
 
 Installation / Requirements
 

@@ -16,6 +16,8 @@ The second part of the script read the text files (bigipf5tsonuc.txt and bigipf5
 Installation / Requirements
 
 pip install paramiko
+
 pip install pymysql
+
 pip install json
 
